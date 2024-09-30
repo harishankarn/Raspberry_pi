@@ -1,1 +1,0 @@
-https://christophergs.com/python/2020/04/12/python-tox-why-use-it-and-tutorial/
